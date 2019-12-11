@@ -1,0 +1,27 @@
+body {
+    background-image: url("assets/screen1bg.png");
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    background: fixed;
+    background-image: url("assets/home%20screen%20menu%20box.png");
+    width: 50%;
+    height: auto;
+    background-repeat: no-repeat;
+    background: fixed;
+}
+ .background{
+    width: 100%;
+    padding: 0;
+
+}
+h1, h2, h3, h4, h5, h6 {
+
+}
+
+p {
+
+}
+
+    
+}
